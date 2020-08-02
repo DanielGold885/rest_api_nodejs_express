@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "flavour": "Vanilla",
+        "price": "30 NIS"
+    },
+    {
+        "id": 2,
+        "flavour": "Chocolate",
+        "price": "25 NIS"
+    },
+    {
+        "id": 3,
+        "flavour": "Coconut",
+        "price": "25 NIS"
+    },
+    {
+        "id": 4,
+        "flavour": "Strawberry",
+        "price": "23 NIS"
+    }
+]
+
+
